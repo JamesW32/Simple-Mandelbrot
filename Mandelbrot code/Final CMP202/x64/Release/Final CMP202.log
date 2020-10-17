@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\James Wood\Desktop\Final CMP202\Final CMP202\Main.cpp(101,47): warning C4552: '/': result of expression not used
+C:\Users\James Wood\Desktop\Final CMP202\Final CMP202\Main.cpp(103,34): warning C4552: '/': result of expression not used
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 204 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Final CMP202.vcxproj -> C:\Users\James Wood\Desktop\Final CMP202\x64\Release\Final CMP202.exe
